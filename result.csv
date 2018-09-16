@@ -1,0 +1,3 @@
+houseNumber,houseName,poi,poi_dist,street,street_dist,subSubLocality,subLocality,locality,village,district,subDistrict,city,state,pincode,lat,lng,area,formatted_address
+,,India Gate,1,,,,,,,South East Delhi District,Defence Colony,New Delhi,Delhi,110001,28.6129602407977,77.2294557094574,India,"New Delhi, Delhi. 1 m from India Gate pin-110001 (India)"
+,,Zilla Parishad Primary School Navi Washat,897,,,,,,Halad Wadhavana,Latur District,Jalkot,,Maharashtra,413532,18.6129602407977,77.2294557094574,India,"Halad Wadhavana, Jalkot, Latur District, Maharashtra. 897 m from Zilla Parishad Primary School Navi Washat pin-413532 (India)"
