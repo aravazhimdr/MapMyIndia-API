@@ -6,7 +6,7 @@ Note: Please Don't forget to add your API key in URL
 
 This small python script uses the API MapMyIndia.com to retrieve details for the given Latitude & Longitude and store it in CSV format
 
-##What is Retrieved
+## What is Retrieved
 
 ```
 houseNumber
@@ -30,7 +30,7 @@ area
 formatted_address
 ```
 
-##Install
+## Install
 
 ```
 git clone https://github.com/aravazhimdr/MapMyIndia-API.git
@@ -50,9 +50,9 @@ optional arguments:
 
 ```
 
-##Screenshots
+## Screenshots
 
-![alt text](https://s33.postimg.cc/4q9hx7auz/Screenshot_from_2018-09-16_19-48-15_copy_----.png)
+![](https://s33.postimg.cc/4q9hx7auz/Screenshot_from_2018-09-16_19-48-15_copy_----.png =640x480)
 
-![alt text](https://s33.postimg.cc/40qpkuxgr/Screenshot_from_2018-09-16_20-39-53-----.png)
+![](https://s33.postimg.cc/40qpkuxgr/Screenshot_from_2018-09-16_20-39-53-----.png =640x480)
 
