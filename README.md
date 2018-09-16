@@ -53,9 +53,7 @@ optional arguments:
 ## Screenshots
 
 <p align="center">
-  <img src="https://s33.postimg.cc/4q9hx7auz/Screenshot_from_2018-09-16_19-48-15_copy_----.png" width="640" title="Script Demo">
+  <img src="https://raw.githubusercontent.com/aravazhimdr/MapMyIndia-API/master/demo.png" width="1364" height="417" title="Script Demo">
 </p>
-<p align="center">
-  <img src="https://s33.postimg.cc/40qpkuxgr/Screenshot_from_2018-09-16_20-39-53-----.png" width="640" title="Output in CSV">
-</p>
+
 
