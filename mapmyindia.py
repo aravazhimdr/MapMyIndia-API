@@ -9,7 +9,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 #A monkey-patched script :P
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
-parser = argparse.ArgumentParser(description='This is for test purpose of argparse')
+parser = argparse.ArgumentParser(description='Python version of MapMyIndia API to store result in CSV format')
 parser.add_argument('-lat', '--latitude', help='Pass the Latitude value.Ex: 28.6129602407977', required=True)
 parser.add_argument('-lng', '--longitude', help='Pass the Longitude value.Ex: 77.2294557094574', required=True)
 parser.add_argument('-f', '--file', help='The file name to store result Default: result.csv',default='result.csv', required=False)
